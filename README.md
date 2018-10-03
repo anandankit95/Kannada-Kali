@@ -29,7 +29,7 @@ In case of any issues, following person can be contacted on their respective Ema
 
 
 # Note 
-This Dataset is proprietary to Center for Cloud Computing and Big Data, PES University, Bengaluru, India 
+This Dataset is proprietary to **Center for Cloud Computing and Big Data, PES University, Bengaluru, India** 
 
 
 
