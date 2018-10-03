@@ -1,5 +1,5 @@
 # Kannada-Kali
-This Repository is meant for maintaining dataset for Speech Recognition Research/Educational Purposes
+This Repository is meant for maintaining dataset for Speech Recognition used for Research/Educational Purposes
 
 This dataset contained high quality speech samples from adults aged between 18 to 25
 
