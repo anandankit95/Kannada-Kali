@@ -8,7 +8,7 @@ This Folder Contains the Smartphone Application regarding the usage of the publi
 # Note
 The application was developed as a part of research project titled "Pronunciation Training on Isolated Kannada Words using “Kannada Kali” - A Cloud Based Smart Phone Application"
 
-This App is proprietary to Center for Cloud Computing and Big Data, PES University, Bengaluru, India
+This App is proprietary to **Center for Cloud Computing and Big Data, PES University, Bengaluru, India**
 
 # Usage Details
 Login ID :- avinash10207@gmail.com
