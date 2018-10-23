@@ -2,7 +2,7 @@ This Folder Contains the Smartphone Application regarding the usage of the publi
 
 # App Details :-
 1. The app serves the purpose of teaching a new language to the user by evaluating the pronunciation of the given speech
-2. The provided a simple UI providing individual words (Here words in kannda language) to learnt by checking the pronunciation using a comparison based approach with a reference speech
+2. The App provides a simple UI providing individual words (Here words in kannda language) to be learnt by checking the pronunciation using a comparison based approach with a reference audio file
 
 
 # Note
