@@ -10,7 +10,7 @@ The application was developed as a part of research project titled "Pronunciatio
 
 This App is proprietary to Center for Cloud Computing and Big Data, PES University, Bengaluru, India
 
-# USAGE DETAILS
+# Usage Details
 Login ID :- avinash10207@gmail.com
 Password :- 123456789
 
